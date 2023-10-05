@@ -1,0 +1,5 @@
+pandas
+typer
+ipykernel
+streamlit==1.27.2
+plotly==5.17.0
