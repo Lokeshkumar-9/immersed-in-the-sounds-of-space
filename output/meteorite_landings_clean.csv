@@ -1,0 +1,501 @@
+name,id,class,mass,fall,year,latitude,longitude,class_cat
+Hoba,11890,"Iron, IVB",60000.0,Found,1920,-19.58333,17.91667,Iron Meteorites - Category IV
+Cape York,5262,"Iron, IIIAB",58200.0,Found,1818,76.13333,-64.93333,Iron Meteorites - Category I
+Campo del Cielo,5247,"Iron, IAB-MG",50000.0,Found,1575,-27.46667,-60.58333,Iron Meteorites - Category I
+Canyon Diablo,5257,"Iron, IAB-MG",30000.0,Found,1891,35.05,-111.03333,Iron Meteorites - Category I
+Armanty,2335,"Iron, IIIE",28000.0,Found,1898,47.0,88.0,Iron Meteorites - Category II
+Gibeon,10912,"Iron, IVA",26000.0,Found,1836,-25.5,18.0,Iron Meteorites - Category IV
+Chupaderos,5363,"Iron, IIIAB",24300.0,Found,1852,27.0,-105.1,Iron Meteorites - Category I
+Mundrabilla,16852,"Iron, IAB-ung",24000.0,Found,1911,-30.78333,127.55,Iron Meteorites - Category I
+Sikhote-Alin,23593,"Iron, IIAB",23000.0,Fell,1947,46.16,134.65333,Iron Meteorites - Category I
+Bacubirito,4919,"Iron, ungrouped",22000.0,Found,1863,26.2,-107.83333,Iron Meteorites - Category U (Uncategorized)
+Mbosi,15456,"Iron, ungrouped",16000.0,Found,1930,-9.11667,33.06667,Iron Meteorites - Category U (Uncategorized)
+Willamette,24269,"Iron, IIIAB",15500.0,Found,1902,45.36667,-122.58333,Iron Meteorites - Category I
+Morito,16745,"Iron, IIIAB",10100.0,Found,1600,27.05,-105.43333,Iron Meteorites - Category I
+Nantan,16906,"Iron, IAB-MG",9500.0,Found,1958,25.1,107.7,Iron Meteorites - Category I
+Cranbourne,5463,"Iron, IAB-MG",8600.0,Found,1854,-38.1,145.3,Iron Meteorites - Category I
+Santa Catharina,23162,"Iron, IAB-ung",7000.0,Found,1875,-26.21667,-48.6,Iron Meteorites - Category I
+Bendegó,5015,"Iron, IC",5360.0,Found,1784,-10.11667,-39.2,Other Categories
+Brenham,5136,"Pallasite, PMG-an",4300.0,Found,1882,37.5825,-99.16361,Stony-Iron Meteorites - Pallasites
+Jilin,12171,H5,4000.0,Fell,1976,44.05,126.16667,Stony Meteorites - Chondrites
+Vaca Muerta,24142,Mesosiderite-A1,3828.0,Found,1861,-25.75,-70.5,Stony-Iron Meteorites - Mesosiderites
+Youndegin,30374,"Iron, IAB-MG",3800.0,Found,1884,-32.1,117.71667,Iron Meteorites - Category I
+Al Haggounia 001,44857,Aubrite,3000.0,Found,2006,27.5,-12.5,Stony Meteorites - Achondrites
+Yingde,30363,"Iron, IVA",3000.0,Found,1964,24.2,113.4,Iron Meteorites - Category IV
+Xifu,54608,"Iron, IAB complex",3000.0,Found,2004,36.3,120.48333,Iron Meteorites - Category I
+Toluca,24018,"Iron, IAB-sLL",3000.0,Found,1776,19.56667,-99.56667,Iron Meteorites - Category I
+Old Woman,18007,"Iron, IIAB",2753.0,Found,1976,34.46667,-115.23333,Iron Meteorites - Category I
+Wabar,24194,"Iron, IIIAB",2550.0,Found,1863,21.49972,50.47222,Iron Meteorites - Category I
+Huckitta,11922,"Pallasite, PMG-an",2300.0,Found,1924,-22.36667,135.76667,Stony-Iron Meteorites - Pallasites
+Navajo,16926,"Iron, IIAB",2184.0,Found,1921,35.33333,-109.5,Iron Meteorites - Category I
+Coahuila,5387,"Iron, IIAB",2100.0,Found,1837,28.7,-102.73333,Iron Meteorites - Category I
+Henbury,11872,"Iron, IIIAB",2000.0,Found,1931,-24.56667,133.16667,Iron Meteorites - Category I
+Campinorte,52093,"Iron, ungrouped",2000.0,Found,1992,-14.258,-49.15917,Iron Meteorites - Category U (Uncategorized)
+Zhaoping,54609,"Iron, IAB complex",2000.0,Found,1983,24.23333,111.18333,Iron Meteorites - Category I
+Allende,2278,CV3,2000.0,Fell,1969,26.96667,-105.31667,Stony Meteorites - Achondrites
+Santa Luzia,23166,"Iron, IIAB",1918.0,Found,1921,-16.26667,-47.95,Iron Meteorites - Category I
+Ghubara,10911,L5,1750.0,Found,1954,19.22778,56.14278,Stony Meteorites - Chondrites
+Odessa (iron),17985,"Iron, IAB-MG",1600.0,Found,1922,31.71667,-102.4,Iron Meteorites - Category I
+Gebel Kamil,52031,"Iron, ungrouped",1600.0,Found,2009,22.01833,26.08778,Iron Meteorites - Category U (Uncategorized)
+Casas Grandes,5285,"Iron, IIIAB",1545.0,Found,1867,30.4,-107.8,Iron Meteorites - Category I
+Bitburg,5062,"Iron, IAB complex",1500.0,Found,1805,49.96667,6.53333,Iron Meteorites - Category I
+Quinn Canyon,22364,"Iron, IIIAB",1450.0,Found,1908,38.08333,-115.53333,Iron Meteorites - Category I
+Charcas,5326,"Iron, IIIAB",1400.0,Found,1804,23.08333,-101.01667,Iron Meteorites - Category I
+Santa Apolonia,23160,"Iron, IIIAB",1316.0,Found,1872,19.21667,-98.3,Iron Meteorites - Category I
+Tsarev,24058,L5,1225.3,Found,1968,48.7,45.7,Stony Meteorites - Chondrites
+Alkhamasin,475,"Iron, IIAB",1200.0,Found,1973,20.6,44.88333,Iron Meteorites - Category I
+Kouga Mountains,12352,"Iron, IIIAB",1173.0,Found,1903,-33.61667,24.0,Iron Meteorites - Category I
+Goose Lake,10947,"Iron, IAB-sLL",1169.5,Found,1938,41.98,-120.54167,Iron Meteorites - Category I
+Murnpeowie,16878,"Iron, IC",1143.0,Found,1909,-29.58333,139.9,Other Categories
+Norton County,17922,Aubrite,1100.0,Fell,1948,39.68333,-99.86667,Stony Meteorites - Achondrites
+Kunya-Urgench,12379,H5,1100.0,Fell,1998,42.25,59.2,Stony Meteorites - Chondrites
+Fukang,34491,"Pallasite, PMG",1003.0,Found,2000,44.43333,87.63333,Stony-Iron Meteorites - Pallasites
+Zacatecas (1792),30381,"Iron, ungrouped",1000.0,Found,1792,22.81667,-102.56667,Iron Meteorites - Category U (Uncategorized)
+Bilibino,5046,"Iron, IIAB",1000.0,Found,1981,67.3,160.8,Iron Meteorites - Category I
+Los Sauces,14710,Iron,997.0,Found,1937,-29.41667,-66.85,Other Categories
+Tucson,24061,"Iron, ungrouped",975.0,Found,1850,31.85,-110.96667,Iron Meteorites - Category U (Uncategorized)
+Cosby's Creek,5450,"Iron, IAB-MG",960.0,Found,1837,35.78333,-83.25,Iron Meteorites - Category I
+Imilac,12025,"Pallasite, PMG",920.0,Found,1822,-24.20333,-68.80667,Stony-Iron Meteorites - Pallasites
+Zhigansk,30405,"Iron, IIIAB",900.0,Found,1966,68.0,128.3,Iron Meteorites - Category I
+Bondoc,5103,Mesosiderite-B4,888.6,Found,1956,13.51667,122.45,Stony-Iron Meteorites - Mesosiderites
+Santa Rosa,23167,"Iron, IC",825.0,Found,1810,5.91667,-73.0,Other Categories
+Brahin,5130,"Pallasite, PMG",823.0,Found,1810,52.5,30.33333,Stony-Iron Meteorites - Pallasites
+Sardis,23177,"Iron, IAB complex",800.0,Found,1940,32.94889,-81.865,Iron Meteorites - Category I
+Red River,22548,"Iron, IIIAB",800.0,Found,1808,32.0,-95.0,Iron Meteorites - Category I
+Wolf Creek,24326,"Iron, IIIAB",760.0,Found,1947,-19.3,127.76667,Iron Meteorites - Category I
+Esquel,10054,"Pallasite, PMG",755.0,Found,1951,-42.9,-71.33333,Stony-Iron Meteorites - Pallasites
+Gladstone (iron),10920,"Iron, IAB-MG",736.6,Found,1915,-23.9,151.3,Iron Meteorites - Category I
+Mount Dooling,16771,"Iron, IC",734.0,Found,1909,-29.45,119.71667,Other Categories
+Krasnojarsk,12356,"Pallasite, PMG-an",700.0,Found,1749,54.9,91.8,Stony-Iron Meteorites - Pallasites
+Plainview (1917),18841,H5,700.0,Found,1917,34.11667,-101.78333,Stony Meteorites - Chondrites
+Davis Mountains,6615,"Iron, IIIAB",689.0,Found,1903,30.75,-104.25,Iron Meteorites - Category I
+Arispe,2332,"Iron, IC",683.0,Found,1896,30.33333,-109.98333,Other Categories
+Zerhamra,30403,"Iron, IIIAB-an",630.0,Found,1967,29.85861,-2.645,Iron Meteorites - Category I
+La Caille,12393,"Iron, ungrouped",626.0,Found,1828,43.73333,6.78333,Iron Meteorites - Category U (Uncategorized)
+Jianshi,12087,"Iron, IIIAB",600.0,Fell,1890,30.80833,109.5,Iron Meteorites - Category I
+Adzhi-Bogdo (iron),389,"Iron, IAB complex",582.0,Found,1952,44.86667,95.41667,Iron Meteorites - Category I
+Long Island,14694,L6,564.0,Found,1891,39.93333,-99.6,Stony Meteorites - Chondrites
+Jiddat al Harasis 073,12135,L6,550.0,Found,2002,19.7,55.73333,Stony Meteorites - Chondrites
+Rateldraai,22397,"Iron, IIIAB",549.0,Found,1909,-28.83333,21.13333,Iron Meteorites - Category I
+Drum Mountains,7733,"Iron, IIIAB",529.0,Found,1944,39.5,-112.9,Iron Meteorites - Category I
+Grant,10957,"Iron, IIIAB",525.0,Found,1929,35.16667,-107.88333,Iron Meteorites - Category I
+Tamentit,23798,"Iron, IIIAB",510.0,Found,1864,27.71667,-0.25,Iron Meteorites - Category I
+Trenton,24045,"Iron, IIIAB",505.0,Found,1858,43.36667,-88.13333,Iron Meteorites - Category I
+Haig,11471,"Iron, IIIAB",503.0,Found,1951,-31.38333,125.63333,Iron Meteorites - Category I
+Boxhole,5126,"Iron, IIIAB",500.0,Found,1937,-22.61667,135.2,Iron Meteorites - Category I
+Ochansk,17979,H4,500.0,Fell,1887,57.78333,55.26667,Stony Meteorites - Chondrites
+El Timbu,7820,Iron,500.0,Found,1942,-33.11667,-60.96667,Other Categories
+Prambanan,18884,"Iron, ungrouped",500.0,Found,1797,-7.56667,110.83333,Iron Meteorites - Category U (Uncategorized)
+Wildara,24265,H5,500.0,Found,1968,-28.23333,120.85,Stony Meteorites - Chondrites
+Knyahinya,12335,L/LL5,500.0,Fell,1866,48.9,22.4,Stony Meteorites - Chondrites
+Jepara,53840,"Pallasite, PMG",499.5,Found,2008,-6.6,110.73333,Stony-Iron Meteorites - Pallasites
+Saint-Aubin,23096,"Iron, IIIAB",472.0,Found,1968,48.48333,3.58333,Iron Meteorites - Category I
+Carbo,5266,"Iron, IID",454.0,Found,1923,29.66667,-111.5,Iron Meteorites - Category II
+Sayh al Uhaymir 001,23193,L5,450.0,Found,2000,20.51667,56.66667,Stony Meteorites - Chondrites
+Etter,10062,L5,450.0,Found,1965,35.98333,-101.9,Stony Meteorites - Chondrites
+Wallapai,24206,"Iron, IID",430.0,Found,1927,35.8,-113.7,Iron Meteorites - Category II
+Yanhuitlan,30349,"Iron, IVA",421.0,Found,1825,17.53333,-97.35,Iron Meteorites - Category IV
+Paragould,18101,LL5,408.0,Fell,1930,36.06667,-90.5,Stony Meteorites - Chondrites
+Allan Hills A76009,1316,L6,407.0,Found,1976,-76.71667,159.66667,Stony Meteorites - Chondrites
+Augustinovka,4898,"Iron, IIIAB",400.0,Found,1890,48.06667,35.08333,Iron Meteorites - Category I
+Pei Xian,18784,Iron,400.0,Found,1917,34.7,117.0,Other Categories
+Mount Joy,16779,"Iron, IIAB",384.0,Found,1887,39.78333,-77.21667,Iron Meteorites - Category I
+Mont Dieu,16722,"Iron, ungrouped",360.0,Found,1994,49.55,4.86667,Iron Meteorites - Category U (Uncategorized)
+Longtian,14696,"Iron, IIIAB",350.0,Found,1991,27.35,108.5,Iron Meteorites - Category I
+Hugoton,11984,H5,350.0,Found,1927,37.2,-101.35,Stony Meteorites - Chondrites
+Kokstad,12341,"Iron, IIIE",341.0,Found,1884,-30.55,29.41667,Iron Meteorites - Category II
+Bjurböle,5064,L/LL4,330.0,Fell,1899,60.4,25.8,Stony Meteorites - Chondrites
+Millbillillie,16643,Eucrite-mmict,330.0,Fell,1960,-26.45,120.36667,Stony Meteorites - Achondrites
+Mount Edith,16773,"Iron, IIIAB",326.0,Found,1913,-22.5,116.16667,Iron Meteorites - Category I
+Sterlitamak,23724,"Iron, IIIAB",325.0,Fell,1990,53.66667,55.98333,Iron Meteorites - Category I
+Seymchan,23510,"Pallasite, PMG",323.3,Found,1967,62.9,152.43333,Stony-Iron Meteorites - Pallasites
+Estherville,10059,Mesosiderite-A3/4,320.0,Fell,1879,43.41667,-94.83333,Stony-Iron Meteorites - Mesosiderites
+Tamarugal,23794,"Iron, IIIAB",320.0,Found,1903,-20.8,-69.66667,Iron Meteorites - Category I
+Guffey,11441,"Iron, ungrouped",309.0,Found,1907,38.76667,-105.51667,Iron Meteorites - Category U (Uncategorized)
+Nova Petropolis,17928,"Iron, IIIAB",305.0,Found,1967,-29.43333,-50.91667,Iron Meteorites - Category I
+Gressk,11200,"Iron, IIAB",303.0,Found,1955,53.23333,27.33333,Iron Meteorites - Category I
+Bruderheim,5156,L6,303.0,Fell,1960,53.9,-112.88333,Stony Meteorites - Chondrites
+Tianlin,23983,"Iron, IAB complex",300.0,Found,1956,24.3,106.1,Iron Meteorites - Category I
+Putinga,18905,L6,300.0,Fell,1937,-29.03333,-53.05,Stony Meteorites - Chondrites
+Mocs,16709,L5-6,300.0,Fell,1882,46.8,24.03333,Stony Meteorites - Chondrites
+North Chile,17001,"Iron, IIAB",300.0,Found,1875,-23.0,-69.0,Iron Meteorites - Category I
+Morland,16746,H6,295.0,Found,1890,39.33333,-100.06667,Stony Meteorites - Chondrites
+Morasko,16741,"Iron, IAB-MG",290.0,Found,1914,52.46667,16.9,Iron Meteorites - Category I
+Bur-Abor,5166,"Iron, IIIAB",290.0,Found,1997,3.98333,41.65,Iron Meteorites - Category I
+Estacado,10057,H6,290.0,Found,1883,33.9,-101.75,Stony Meteorites - Chondrites
+Clovis (no. 1),5385,H3.6,283.0,Found,1961,34.3,-103.13472,Stony Meteorites - Chondrites
+Rio Limay,22609,L5,280.0,Found,1995,-39.85,-69.48333,Stony Meteorites - Chondrites
+Sanclerlandia,23132,"Iron, IIIAB",279.0,Found,1971,-16.21667,-50.3,Iron Meteorites - Category I
+South Dahna,23677,"Iron, IAB complex",275.0,Found,1957,22.56667,48.3,Iron Meteorites - Category I
+Mount Padbury,16785,Mesosiderite-A1,272.0,Found,1964,-25.66667,118.1,Stony-Iron Meteorites - Mesosiderites
+Saint-Séverin,23102,LL6,271.0,Fell,1966,45.3,0.23333,Stony Meteorites - Chondrites
+Lake Murray,12446,"Iron, IIAB",270.0,Found,1933,34.1,-97.0,Iron Meteorites - Category I
+Miles,16641,"Iron, IIE",265.0,Found,1992,-27.83333,150.33333,Iron Meteorites - Category II
+Potter,18878,L6,261.0,Found,1941,41.23333,-103.3,Stony Meteorites - Chondrites
+Tishomingo,24010,"Iron, ungrouped",260.0,Found,1965,34.25,-96.68333,Iron Meteorites - Category U (Uncategorized)
+Suizhou,23738,L6,260.0,Fell,1986,31.61667,113.46667,Stony Meteorites - Chondrites
+Dalgety Downs,5507,L4,257.0,Found,1941,-25.33333,116.18333,Stony Meteorites - Chondrites
+Boguslavka,5098,"Iron, IIAB",256.0,Fell,1916,44.55,131.63333,Iron Meteorites - Category I
+Dhofar 020,6719,H4/5,256.0,Found,2000,19.03333,54.51667,Stony Meteorites - Chondrites
+Uegit,24105,"Iron, IIIAB",252.0,Found,1921,3.81667,43.33333,Iron Meteorites - Category I
+Netschaëvo,16949,"Iron, IIE-an",250.0,Found,1846,54.23333,35.15,Iron Meteorites - Category II
+Omolon,18019,"Pallasite, PMG",250.0,Fell,1981,64.02,161.80833,Stony-Iron Meteorites - Pallasites
+Pultusk,18901,H5,250.0,Fell,1868,52.76667,21.26667,Stony Meteorites - Chondrites
+Shangdu,23523,"Iron, IIIAB",247.0,Found,1957,42.5,114.0,Iron Meteorites - Category I
+St. Genevieve County,23086,"Iron, IIIF",244.5,Found,1888,37.96667,-90.31667,Other Categories
+El Hammami,7806,H5,240.0,Found,1997,23.28333,-10.81667,Stony Meteorites - Chondrites
+Sacramento Mountains,22794,"Iron, IIIAB",237.2,Found,1890,32.91667,-104.66667,Iron Meteorites - Category I
+Muonionalusta,16873,"Iron, IVA",230.0,Found,1906,67.8,23.1,Iron Meteorites - Category IV
+New Concord,16953,L6,230.0,Fell,1860,40.0,-81.76667,Stony Meteorites - Chondrites
+Homestead,11901,L5,230.0,Fell,1875,41.8,-91.86667,Stony Meteorites - Chondrites
+Alfianello,466,L6,228.0,Fell,1883,45.26667,10.15,Stony Meteorites - Chondrites
+Bear Creek,4982,"Iron, IIIAB",227.0,Found,1866,39.6,-105.3,Iron Meteorites - Category I
+Holbrook,11894,L/LL6,220.0,Fell,1912,34.9,-110.18333,Stony Meteorites - Chondrites
+Youxi,55793,Mesosiderite-C,218.0,Found,2006,26.06,118.01,Stony-Iron Meteorites - Mesosiderites
+Acuña,373,"Iron, IIIAB",217.7,Found,1981,29.31667,-100.96667,Iron Meteorites - Category I
+Ssyromolotovo,23694,"Iron, IIIAB",217.0,Found,1873,58.61667,98.93333,Iron Meteorites - Category I
+Chinga,5353,"Iron, ungrouped",209.4,Found,1913,51.05833,94.4,Iron Meteorites - Category U (Uncategorized)
+Liangcheng,14645,"Iron, IIIAB",200.0,Found,1959,40.5,112.5,Iron Meteorites - Category I
+Dimmitt,7645,H3.7,200.0,Found,1942,34.58333,-102.16667,Stony Meteorites - Chondrites
+Jiddat al Harasis 055,12119,L4-5,200.0,Found,2004,19.65167,55.69,Stony Meteorites - Chondrites
+Kainsaz,12229,CO3.2,200.0,Fell,1937,55.43333,53.25,Stony Meteorites - Achondrites
+Saratov,23176,L4,200.0,Fell,1918,52.55,46.55,Stony Meteorites - Chondrites
+Barratta,4951,L4,200.0,Found,1845,-35.3,144.56667,Stony Meteorites - Chondrites
+Kunashak,12377,L6,200.0,Fell,1949,55.78333,61.36667,Stony Meteorites - Chondrites
+Patos de Minas (octahedrite),18114,"Iron, IAB complex",200.0,Found,1925,-18.58333,-46.53333,Iron Meteorites - Category I
+Porto Alegre,52091,"Iron, IIIE",200.0,Found,2005,-30.03306,-51.23,Iron Meteorites - Category II
+Pallasovka,34061,"Pallasite, PMG",198.0,Found,1990,49.86667,46.61167,Stony-Iron Meteorites - Pallasites
+Kenton County,12280,"Iron, IIIAB",194.0,Found,1889,38.81667,-84.6,Iron Meteorites - Category I
+Owens Valley,18061,"Iron, IIIAB",192.8,Found,1913,37.46667,-118.0,Iron Meteorites - Category I
+Guanghua,11434,"Iron, IVA",190.0,Found,1932,32.4,111.7,Iron Meteorites - Category IV
+Admire,380,"Pallasite, PMG",180.0,Found,1881,38.7,-96.1,Stony-Iron Meteorites - Pallasites
+Travis County (a),24040,H5,175.4,Found,1889,30.3,-97.7,Stony Meteorites - Chondrites
+Zag,30384,H3-6,175.0,Fell,1998,27.33333,-9.33333,Stony Meteorites - Chondrites
+Iron Creek,12047,"Iron, IIIAB",175.0,Found,1869,53.0,-112.0,Iron Meteorites - Category I
+Tanokami Mountain,23872,"Iron, IIIE",174.0,Found,1885,34.91667,135.96667,Iron Meteorites - Category II
+Tamir-Tsetserleg,23799,Stone-uncl,173.0,Found,1956,47.45,101.47917,Stony Meteorites - Achondrites
+Owasco,18060,L6,168.4,Found,1984,41.2,-103.68333,Stony Meteorites - Chondrites
+Madoc,15381,"Iron, IIIAB",168.0,Found,1854,44.5,-77.46667,Iron Meteorites - Category I
+Manlai,15407,"Iron, ungrouped",166.8,Found,1954,44.33333,106.5,Iron Meteorites - Category U (Uncategorized)
+Djati-Pengilon,7652,H6,166.0,Fell,1884,-7.5,111.5,Stony Meteorites - Chondrites
+São Julião de Moreira,23172,"Iron, IIAB",162.0,Found,1883,41.76611,-8.58361,Iron Meteorites - Category I
+Knowles,12334,"Iron, IIIAB",161.0,Found,1903,36.9,-100.21667,Iron Meteorites - Category I
+Tenham,23897,L6,160.0,Fell,1879,-25.73333,142.95,Stony Meteorites - Chondrites
+Garabato,10856,H5,160.0,Found,1995,-28.86667,-60.2,Stony Meteorites - Chondrites
+Qijiaojing,54610,"Iron, ungrouped",160.0,Found,2003,43.75,92.91667,Iron Meteorites - Category U (Uncategorized)
+Mount Vernon,16806,"Pallasite, PMG",159.0,Found,1868,36.93333,-87.4,Stony-Iron Meteorites - Pallasites
+Longchang,14695,"Iron, IVA-an",158.5,Found,1781,29.3,105.3,Iron Meteorites - Category IV
+Kimble County,12311,H6,153.8,Found,1918,30.41667,-99.4,Stony Meteorites - Chondrites
+Bluff (a),5087,L5,153.3,Found,1878,29.87861,-96.87222,Stony Meteorites - Chondrites
+Glasatovo,10926,H4,152.0,Fell,1918,57.35,37.61667,Stony Meteorites - Chondrites
+Forest City,10119,H5,152.0,Fell,1890,43.25,-93.66667,Stony Meteorites - Chondrites
+Northwest Africa 5940,50826,H5-6,151.0,Found,2009,0.0,0.0,Stony Meteorites - Chondrites
+Yardymly,30352,"Iron, IAB complex",150.2,Fell,1959,38.93333,48.25,Iron Meteorites - Category I
+Magura,15388,"Iron, IAB-MG",150.0,Found,1840,49.33333,19.48333,Iron Meteorites - Category I
+Jalu,12070,L6,150.0,Found,2000,27.95833,21.68333,Stony Meteorites - Chondrites
+Olivenza,18013,LL5,150.0,Fell,1924,38.71667,-7.06667,Stony Meteorites - Chondrites
+Mbale,15455,L5/6,150.0,Fell,1992,1.06667,34.16667,Stony Meteorites - Chondrites
+Weston,24249,H4,150.0,Fell,1807,41.266667,-73.266667,Stony Meteorites - Chondrites
+McKinney,15463,L4,150.0,Found,1870,33.18333,-96.71667,Stony Meteorites - Chondrites
+Wiluna,24281,H5,150.0,Fell,1967,-26.59278,120.32833,Stony Meteorites - Chondrites
+Tres Castillos,24047,"Iron, ungrouped",150.0,Found,1992,29.47,-105.8,Iron Meteorites - Category U (Uncategorized)
+Montferré,16727,H5,149.0,Fell,1923,43.39056,1.9625,Stony Meteorites - Chondrites
+Orange River (iron),18023,"Iron, IIIAB",148.8,Found,1855,-30.0,25.0,Iron Meteorites - Category I
+Glorieta Mountain,10935,"Pallasite, PMG-an",148.0,Found,1884,35.6,-105.8,Stony-Iron Meteorites - Pallasites
+Gilgoin,10915,H5,147.0,Found,1889,-30.38333,147.2,Stony Meteorites - Chondrites
+Wichita County,24257,"Iron, IAB-MG",145.0,Found,1836,34.06667,-98.91667,Iron Meteorites - Category I
+Molina,16715,H5,144.0,Fell,1858,38.11667,-1.16667,Stony Meteorites - Chondrites
+El Sampal,7817,"Iron, IIIAB",142.0,Found,1973,-44.53333,-70.36667,Iron Meteorites - Category I
+Keyes,12287,L6,142.0,Found,1939,36.71667,-102.5,Stony Meteorites - Chondrites
+Tambo Quemado,23797,"Iron, IIIAB",141.0,Found,1950,-14.66667,-74.5,Iron Meteorites - Category I
+Ysleta,30375,"Iron, ungrouped",140.7,Found,1914,31.65,-106.18333,Iron Meteorites - Category U (Uncategorized)
+Selma,23486,H4,140.6,Found,1906,32.4,-87.0,Stony Meteorites - Chondrites
+Ider,11999,"Iron, IIIAB",140.0,Found,1957,34.68333,-85.65,Iron Meteorites - Category I
+Huizopa,11985,"Iron, IVA",140.0,Found,1907,28.9,-108.56667,Iron Meteorites - Category IV
+Korra Korrabes,12347,H3,140.0,Found,1996,-25.2,18.08333,Stony Meteorites - Chondrites
+Brainard,5131,"Iron, IIIAB",138.3,Found,1978,41.15333,-96.955,Iron Meteorites - Category I
+Derrick Peak A78009,6685,"Iron, IIAB",138.1,Found,1978,-80.06667,156.38333,Iron Meteorites - Category I
+Babb's Mill (Blake's Iron),4915,"Iron, ungrouped",136.0,Found,1876,36.3,-82.88333,Iron Meteorites - Category U (Uncategorized)
+Cape of Good Hope,5261,"Iron, IVB",136.0,Found,1793,-33.5,26.0,Iron Meteorites - Category IV
+Kesen,12286,H4,135.0,Fell,1850,38.98333,141.61667,Stony Meteorites - Chondrites
+Colomera,5404,"Iron, IIE",134.0,Found,1912,37.43333,-3.65,Iron Meteorites - Category II
+Carnegie,5278,L6,132.7,Found,1963,35.16667,-98.64389,Stony Meteorites - Chondrites
+Araslanovo,2324,L/LL5,132.0,Found,1973,55.14167,48.2,Stony Meteorites - Chondrites
+Yenberrie,30361,"Iron, IAB-MG",132.0,Found,1918,-14.25,132.01667,Iron Meteorites - Category I
+Dong Ujimqin Qi,7706,Mesosiderite,128.8,Fell,1995,45.5,119.03333,Stony-Iron Meteorites - Mesosiderites
+Chebankol,5335,"Iron, IAB-sHL",127.76,Found,1938,53.66667,88.0,Iron Meteorites - Category I
+Ozona,18066,H6,127.5,Found,1929,30.73333,-101.3,Stony Meteorites - Chondrites
+Carthage,5282,"Iron, IIIAB",127.0,Found,1840,36.26667,-85.98333,Iron Meteorites - Category I
+Ensisheim,10039,LL6,127.0,Fell,1491,47.86667,7.35,Stony Meteorites - Chondrites
+Dhofar 005,6704,L6,125.5,Found,2000,18.16667,54.16667,Stony Meteorites - Chondrites
+Jiddat al Harasis 091,12150,L5,123.374,Found,2002,19.69362,56.65432,Stony Meteorites - Chondrites
+Bur-Gheluai,5169,H5,120.0,Fell,1919,5.0,48.0,Stony Meteorites - Chondrites
+Santiago Papasquiero,23169,"Iron, ungrouped",119.5,Found,1958,24.5,-106.0,Iron Meteorites - Category U (Uncategorized)
+Youanmi,30373,"Iron, IIIAB",118.4,Found,1917,-29.5,118.75,Iron Meteorites - Category I
+Duketon,7740,"Iron, IIIAB",118.3,Found,1948,-27.5,122.36667,Iron Meteorites - Category I
+Scurry,23468,H5,118.0,Found,1937,32.5,-101.0,Stony Meteorites - Chondrites
+Bencubbin,5014,CBa,118.0,Found,1930,-30.75,117.78333,Stony Meteorites - Achondrites
+Para de Minas,18099,"Iron, IVA",116.3,Found,1934,-19.86667,-44.61667,Iron Meteorites - Category IV
+Northwest Africa 6947,54510,H5,115.777,Found,2011,0.0,0.0,Stony Meteorites - Chondrites
+Cleveland,5379,"Iron, IIIAB",115.0,Found,1860,34.88333,-84.78333,Iron Meteorites - Category I
+Tafassasset,23779,CR-an,114.0,Found,2000,20.76333,10.44167,Stony Meteorites - Achondrites
+Caperr,5263,"Iron, IIIAB",113.9,Found,1869,-45.28333,-70.48333,Iron Meteorites - Category I
+Buenaventura,5162,"Iron, IIIAB",113.6,Found,1969,29.8,-107.55,Iron Meteorites - Category I
+Gundaring,11452,"Iron, IIIAB",112.5,Found,1937,-33.3,117.66667,Iron Meteorites - Category I
+Oakley (iron),17972,"Iron, IIIF",111.0,Found,1926,42.33333,-113.7,Other Categories
+Florey,10112,H6,110.8,Found,1978,32.5225,-102.705,Stony Meteorites - Chondrites
+Etosha,10061,"Iron, IC",110.7,Found,1970,-18.5,16.0,Other Categories
+Lewis Cliff 85320,12790,H5,110.224,Found,1985,-84.26223,161.41628,Stony Meteorites - Chondrites
+Sulagiri,48951,LL6,110.0,Fell,2008,12.66667,78.03333,Stony Meteorites - Chondrites
+Mount Tazerzait,16804,L5,110.0,Fell,1991,18.7,4.8,Stony Meteorites - Chondrites
+Lenarto,12763,"Iron, IIIAB",108.5,Found,1814,49.0,21.0,Iron Meteorites - Category I
+Tiberrhamine,23985,L6,107.0,Found,1967,28.11667,0.53333,Stony Meteorites - Chondrites
+Elbogen,7823,"Iron, IID",107.0,Fell,1399,50.18333,12.73333,Iron Meteorites - Category II
+Abee,6,EH4,107.0,Fell,1952,54.21667,-113.0,Stony Meteorites - Chondrites
+Zhovtnevyi,30407,H6,107.0,Fell,1938,47.58333,37.25,Stony Meteorites - Chondrites
+Faith,10071,H5,105.0,Found,1952,45.33333,-102.08333,Stony Meteorites - Chondrites
+Cook 001,5421,H5,105.0,Found,1989,-30.33333,130.53333,Stony Meteorites - Chondrites
+Chico,5346,L6,104.8,Found,1954,36.5,-104.2,Stony Meteorites - Chondrites
+Juncal,12211,"Iron, IIIAB",104.0,Found,1866,-26.0,-69.25,Iron Meteorites - Category I
+Colby (Wisconsin),5395,L6,104.0,Fell,1917,44.9,-90.28333,Stony Meteorites - Chondrites
+Molong,16716,"Pallasite, PMG",104.0,Found,1912,-33.28333,148.88333,Stony-Iron Meteorites - Pallasites
+Udei Station,24101,"Iron, IAB-ung",103.0,Fell,1927,7.95,8.08333,Iron Meteorites - Category I
+Rifle,22605,"Iron, IAB-MG",102.7,Found,1948,38.51667,-107.83333,Iron Meteorites - Category I
+Seeläsgen,23474,"Iron, IAB-MG",102.0,Found,1847,52.26667,15.55,Iron Meteorites - Category I
+Sevrukovo,23509,L5,101.0,Fell,1874,50.61667,36.6,Stony Meteorites - Chondrites
+Zhongxiang,30406,Iron,100.0,Found,1981,31.2,112.5,Other Categories
+Lutschaunig's Stone,14762,L6,100.0,Found,1861,-27.0,-70.0,Stony Meteorites - Chondrites
+Franconia,10174,H5,100.0,Found,2002,34.71637,-114.22197,Stony Meteorites - Chondrites
+Murchison,16875,CM2,100.0,Fell,1969,-36.61667,145.2,Stony Meteorites - Achondrites
+Budulan,5161,Mesosiderite-B4,100.0,Found,1962,50.56667,114.9,Stony-Iron Meteorites - Mesosiderites
+Gujba,11449,CBa,100.0,Fell,1984,11.49167,11.65833,Stony Meteorites - Achondrites
+Tamdakht,48691,H5,100.0,Fell,2008,31.16333,-7.015,Stony Meteorites - Chondrites
+Retuerta del Bullaque,56577,"Iron, IAB-MG",100.0,Found,1980,39.45889,-4.3775,Iron Meteorites - Category I
+Bou Azarif,53812,H5,100.0,Found,2010,31.15643,-5.15262,Stony Meteorites - Chondrites
+Kidairat,12300,H6,100.0,Fell,1983,14.0,28.0,Stony Meteorites - Chondrites
+Paranaiba,18103,L6,100.0,Fell,1956,-19.13333,-51.66667,Stony Meteorites - Chondrites
+Cook 007,5427,H4,100.0,Found,1989,-30.61667,130.41667,Stony Meteorites - Chondrites
+Juancheng,12203,H5,100.0,Fell,1997,35.5,115.41667,Stony Meteorites - Chondrites
+Anyujskij,2312,"Iron, IIAB",100.0,Found,1981,66.9,164.2,Iron Meteorites - Category I
+Northwest Africa 4502,45481,CV3,100.0,Found,2005,0.0,0.0,Stony Meteorites - Achondrites
+Chergach ,47347,H5,100.0,Fell,2007,23.69639,-5.01472,Stony Meteorites - Chondrites
+Faucett,10077,H5,100.0,Found,1966,39.61667,-94.86667,Stony Meteorites - Chondrites
+Chelyabinsk,57165,LL5,100.0,Fell,2013,54.81667,61.11667,Stony Meteorites - Chondrites
+Pierceville (iron),18819,"Iron, IIIAB",100.0,Found,1917,37.86667,-100.66667,Iron Meteorites - Category I
+Agoudal,57354,"Iron, IIAB",100.0,Found,2000,31.98457,-5.51528,Iron Meteorites - Category I
+Dimitrovgrad,7644,"Iron, IIIAB",100.0,Found,1949,43.04639,22.86389,Iron Meteorites - Category I
+Social Circle,23659,"Iron, IVA",99.3,Found,1927,33.7,-83.7,Iron Meteorites - Category IV
+Steinbach,23722,"Iron, IVA-an",98.0,Found,1724,50.5,12.5,Iron Meteorites - Category IV
+Palmas de Monte Alto,48959,"Iron, IIIAB",97.0,Found,1954,-14.3675,-43.02278,Iron Meteorites - Category I
+Dar al Gani 749,6296,CO3,95.0,Found,1999,27.30167,15.7645,Stony Meteorites - Achondrites
+Zavid,30396,L6,95.0,Fell,1897,44.4,19.11667,Stony Meteorites - Chondrites
+Loreto,14705,"Iron, IIIAB",94.8,Found,1896,26.01667,-111.36667,Iron Meteorites - Category I
+Weekeroo Station,24230,"Iron, IIE-an",94.2,Found,1924,-32.26667,139.86667,Iron Meteorites - Category II
+Carver,5284,"Iron, IIAB",94.0,Found,1935,32.0,-86.0,Iron Meteorites - Category I
+Concho,5417,L6,93.5,Found,1939,32.0,-101.5,Stony Meteorites - Chondrites
+Machinga,15371,L6,93.2,Fell,1981,-15.21222,35.24222,Stony Meteorites - Chondrites
+Watson 001,24221,"Iron, IIE",93.0,Found,1972,-30.5,131.55,Iron Meteorites - Category II
+Jiddat al Harasis 090,12149,L5,92.667,Found,2002,19.71678,56.6062,Stony Meteorites - Chondrites
+Karee Kloof,12259,"Iron, IAB-sLL",92.1,Found,1914,-31.6,25.8,Iron Meteorites - Category I
+Laguna Manantiales,12413,Iron,92.0,Found,1945,-48.58333,-67.41667,Other Categories
+Juvinas,12214,Eucrite-mmict,91.0,Fell,1821,44.71667,4.3,Stony Meteorites - Achondrites
+Richardton,22599,H5,90.0,Fell,1918,46.88333,-102.31667,Stony Meteorites - Chondrites
+ad-Dahbubah,376,H5,90.0,Found,1961,19.83333,51.25,Stony Meteorites - Chondrites
+Mincy,16694,Mesosiderite-B4,89.4,Found,1857,36.55,-93.1,Stony-Iron Meteorites - Mesosiderites
+Farmington,10074,L5,89.4,Fell,1890,39.75,-97.03333,Stony Meteorites - Chondrites
+Bennett County,5022,"Iron, IIAB",89.0,Found,1934,43.5,-101.25,Iron Meteorites - Category I
+San Angelo,23117,"Iron, IIIAB",88.0,Found,1897,31.41667,-100.35,Iron Meteorites - Category I
+Mills,16687,H6,88.0,Found,1970,36.23,-104.11889,Stony Meteorites - Chondrites
+Northwest Africa 6727,53763,L5,88.0,Found,2006,0.0,0.0,Stony Meteorites - Chondrites
+Wagon Mound,24196,L6,87.5,Found,1932,35.84083,-104.58583,Stony Meteorites - Chondrites
+Roebourne,22644,"Iron, IIIAB",86.86,Found,1892,-22.33333,118.0,Iron Meteorites - Category I
+Bath Furnace,4975,L6,86.0,Fell,1902,38.25,-83.75,Stony Meteorites - Chondrites
+Tulia (a),24066,H3-4,86.0,Found,1917,34.61667,-101.95,Stony Meteorites - Chondrites
+Zapaliname,30392,"Iron, IAB-MG",85.0,Found,1998,25.00944,-100.75,Iron Meteorites - Category I
+Juanita de Angeles,12204,H5,85.0,Found,1992,28.41667,-105.08333,Stony Meteorites - Chondrites
+Kayakent,12268,"Iron, IIIAB",85.0,Fell,1961,39.26333,31.78,Iron Meteorites - Category I
+Apoala,2317,"Iron, IIIAB",85.0,Found,1889,17.7,-97.0,Iron Meteorites - Category I
+Gan Gan,10852,"Iron, IVA",83.0,Found,1984,-42.66667,-68.08333,Iron Meteorites - Category IV
+Bruceville,5155,L6,83.0,Found,1998,38.295,-121.405,Stony Meteorites - Chondrites
+Ness County (1894),16946,L6,82.0,Found,1894,38.5,-99.6,Stony Meteorites - Chondrites
+Gretna,11201,L5,82.0,Found,1912,39.93333,-99.21667,Stony Meteorites - Chondrites
+Renfrow,22588,L6,81.6,Found,1986,36.98667,-97.555,Stony Meteorites - Chondrites
+Carlton,5277,"Iron, IAB-sLM",81.2,Found,1887,31.91667,-98.03333,Iron Meteorites - Category I
+Ainsworth,422,"Iron, IIAB",80.65,Found,1907,42.6,-99.8,Iron Meteorites - Category I
+Unter-Mässing,24124,"Iron, IIC",80.0,Found,1920,49.09028,11.33333,Iron Meteorites - Category II
+Vera,24161,L/LL4,80.0,Found,1941,-29.91667,-60.28333,Stony Meteorites - Chondrites
+Baygorria,4980,"Iron, IAB complex",80.0,Found,1994,-33.0,-56.0,Iron Meteorites - Category I
+Soko-Banja,23661,LL4,80.0,Fell,1877,43.66667,21.86667,Stony Meteorites - Chondrites
+Kernouve,12284,H6,80.0,Fell,1869,48.11667,-3.08333,Stony Meteorites - Chondrites
+Mrirt,16819,Iron,79.9,Found,1937,33.13333,-5.56667,Other Categories
+Belle Plaine,5004,L6,78.8,Found,1950,37.31667,-97.25,Stony Meteorites - Chondrites
+Finmarken,10103,"Pallasite, PMG",78.3,Found,1902,70.0,24.0,Stony-Iron Meteorites - Pallasites
+Parnallee,18108,LL3.6,77.6,Fell,1857,9.23333,78.35,Stony Meteorites - Chondrites
+Jiddat al Harasis 230,35549,L5,77.0,Found,2005,19.7127,56.58277,Stony Meteorites - Chondrites
+Moorumbunna,16739,"Iron, IIIAB",77.0,Found,1943,-28.91667,136.25,Iron Meteorites - Category I
+Yelland Dry Lake,52641,H4,76.0,Found,2007,39.35067,-114.40783,Stony Meteorites - Chondrites
+Northbranch,17010,H5,76.0,Found,1972,39.99167,-98.34167,Stony Meteorites - Chondrites
+Augusta County,4897,"Iron, IIIAB",76.0,Found,1858,38.16667,-79.08333,Iron Meteorites - Category I
+Tawallah Valley,23889,"Iron, IVB",75.75,Found,1939,-15.7,135.66667,Iron Meteorites - Category IV
+Xingyang,24346,H6,75.5,Fell,1977,32.33333,114.31667,Stony Meteorites - Chondrites
+Bayard,4978,L5,75.0,Found,1982,41.81667,-103.36667,Stony Meteorites - Chondrites
+Acme,371,H5,75.0,Found,1947,33.63333,-104.26667,Stony Meteorites - Chondrites
+Wolsey,24328,"Iron, IAB-MG",74.83,Found,1981,44.4,-98.53333,Iron Meteorites - Category I
+Walker County,24204,"Iron, IIAB",74.8,Found,1832,34.0,-87.16667,Iron Meteorites - Category I
+Tilden,23998,L6,74.8,Fell,1927,38.2,-89.68333,Stony Meteorites - Chondrites
+Hunter,11987,LL5,74.6,Found,1962,36.56,-97.66667,Stony Meteorites - Chondrites
+Ethiudna,10060,L4,74.318,Found,1977,-32.03333,139.78333,Stony Meteorites - Chondrites
+Toufassour,47702,Mesosiderite,73.3,Found,2007,29.65225,-7.7493,Stony-Iron Meteorites - Mesosiderites
+Nelson County,16942,"Iron, IIIF",73.03,Found,1856,37.75,-85.5,Other Categories
+Uwharrie,24139,"Iron, IIIAB",72.7,Found,1930,35.51667,-79.96667,Iron Meteorites - Category I
+Uruaçu,24131,"Iron, IAB-MG",72.5,Found,1992,-14.53333,-48.76667,Iron Meteorites - Category I
+Isoulane-n-Amahar,12052,L6,72.0,Found,1945,27.12917,8.66722,Stony Meteorites - Chondrites
+Mafuta,15384,"Iron, IID",71.5,Found,1984,-16.9025,30.40722,Iron Meteorites - Category II
+Merua,15492,H5,71.4,Fell,1920,25.48333,81.98333,Stony Meteorites - Chondrites
+Portales Valley,18874,H6,71.4,Fell,1998,34.175,-103.295,Stony Meteorites - Chondrites
+Sierra Colorada,23588,L5,71.3,Found,1995,-40.8,-67.48333,Stony Meteorites - Chondrites
+Tlacotepec,24013,"Iron, IVB",71.0,Found,1903,18.65,-97.55,Iron Meteorites - Category IV
+Wooramel,24335,L5,71.0,Found,1969,-25.65,114.21667,Stony Meteorites - Chondrites
+Mahadevpur,47361,H4/5,70.5,Fell,2007,27.66667,95.78333,Stony Meteorites - Chondrites
+Smithville,23654,"Iron, IAB-MG",70.5,Found,1840,35.98333,-85.85,Iron Meteorites - Category I
+Peña Blanca Spring,18786,Aubrite,70.0,Fell,1946,30.125,-103.11667,Stony Meteorites - Achondrites
+Lahmada 009,12422,H3-6,70.0,Found,1999,27.16667,-9.5,Stony Meteorites - Chondrites
+Smithonia,23651,"Iron, IIAB",69.9,Found,1940,34.0,-83.16667,Iron Meteorites - Category I
+Landes,12457,"Iron, IAB-MG",69.8,Found,1930,38.9,-79.18333,Iron Meteorites - Category I
+Xinyi,24347,H5,69.0,Found,1975,34.36667,118.33333,Stony Meteorites - Chondrites
+Wu-chu-mu-ch'in,24341,"Iron, IAB-ung",68.86,Found,1920,45.5,118.0,Iron Meteorites - Category I
+Marlow,15428,L5,68.0,Found,1936,34.6,-97.91667,Stony Meteorites - Chondrites
+Soledade,23662,"Iron, IAB-MG",68.0,Found,1986,-29.05,-51.43333,Iron Meteorites - Category I
+Burlington,5172,"Iron, IIIE",68.0,Found,1819,42.75,-75.18333,Iron Meteorites - Category II
+Hamilton (Queensland),11483,L6,68.0,Found,1966,-28.48333,148.25,Stony Meteorites - Chondrites
+Springwater,23692,"Pallasite, PMG-an",67.6,Found,1931,52.0,-108.3,Stony-Iron Meteorites - Pallasites
+Rahimyar Khan,31302,L5,67.225,Fell,1983,28.225,70.2,Stony Meteorites - Chondrites
+Pervomaisky,18798,L6,66.0,Fell,1933,56.63333,39.43333,Stony Meteorites - Chondrites
+Timochin,24004,H5,65.5,Fell,1807,54.5,35.2,Stony Meteorites - Chondrites
+Sychevka,23772,"Iron, IIIAB",65.0,Found,1988,51.125,127.495,Iron Meteorites - Category I
+Bocaiuva,5092,"Iron, ungrouped",64.0,Found,1965,-17.16667,-43.83333,Iron Meteorites - Category U (Uncategorized)
+Signal Mountain,23592,"Iron, IVA",63.5,Found,1919,32.5,-115.5,Iron Meteorites - Category IV
+Treysa,24050,"Iron, IIIAB-an",63.0,Fell,1916,50.91667,9.18333,Iron Meteorites - Category I
+Santa Clara,23163,"Iron, IVB",63.0,Found,1976,24.46667,-103.35,Iron Meteorites - Category IV
+Derrick Peak 88017,6668,"Iron, IIAB",63.0,Found,1988,-80.06667,156.38333,Iron Meteorites - Category I
+Tanezrouft 072,31333,H6,62.285,Found,2002,24.43817,0.103,Stony Meteorites - Chondrites
+Thunda,23978,"Iron, IIIAB",62.1,Found,1881,-25.7,143.05,Iron Meteorites - Category I
+Gold Basin,10940,L4,61.0,Found,1995,35.875,-114.23333,Stony Meteorites - Chondrites
+Covert,5456,H5,61.0,Found,1896,39.2,-98.78333,Stony Meteorites - Chondrites
+Hex River Mountains,11880,"Iron, IIAB",60.0,Found,1882,-33.31667,19.61667,Iron Meteorites - Category I
+Nicolás Levalle,52413,L5,60.0,Found,1956,-38.85028,-62.87889,Stony Meteorites - Chondrites
+Yongning,30365,"Iron, IAB-ung",60.0,Found,1971,22.75,108.33333,Iron Meteorites - Category I
+Savannah,23189,"Iron, IIIAB",60.0,Found,1923,35.16667,-88.18333,Iron Meteorites - Category I
+Derrick Peak A78008,6684,"Iron, IIAB",59.4,Found,1978,-80.06667,156.38333,Iron Meteorites - Category I
+Quijingue,22362,"Pallasite, PMG",59.0,Found,1984,-10.75,-39.21667,Stony-Iron Meteorites - Pallasites
+Łowicz,14718,Mesosiderite-A3,59.0,Fell,1935,52.0,19.91667,Stony-Iron Meteorites - Mesosiderites
+Piedade do Bagre,18817,"Iron, ungrouped",59.0,Found,1922,-18.94167,-44.98333,Iron Meteorites - Category U (Uncategorized)
+Bohumilitz,5099,"Iron, IAB-MG",59.0,Found,1829,49.05,13.76667,Iron Meteorites - Category I
+Guadalupe y Calvo,11431,"Iron, IIAB",58.63,Found,1971,26.1,-106.96667,Iron Meteorites - Category I
+Aliskerovo,472,"Iron, IIIE-an",58.4,Found,1977,67.88333,167.5,Iron Meteorites - Category II
+Ivanpah,12062,"Iron, IIIAB",58.0,Found,1880,35.33333,-115.31667,Iron Meteorites - Category I
+Julesburg,12208,L3.6,57.9,Found,1983,39.975,-102.26667,Stony Meteorites - Chondrites
+Phillips County (stone),18808,L6,57.9,Fell,1901,40.0,-99.25,Stony Meteorites - Chondrites
+Miami,16630,H5,57.7,Found,1930,35.66667,-100.6,Stony Meteorites - Chondrites
+Gladstone (stone),10921,H4,57.3,Found,1936,36.3,-104.0,Stony Meteorites - Chondrites
+Warburton Range,24212,"Iron, IVB",56.93,Found,1963,-26.28333,126.66667,Iron Meteorites - Category IV
+Farmville,10075,H4,56.0,Fell,1934,35.55,-77.53333,Stony Meteorites - Chondrites
+Jenkins,12080,"Iron, IAB-MG",55.4,Found,1946,36.82444,-93.76111,Iron Meteorites - Category I
+Ashmore,2349,H5,55.4,Found,1969,32.9,-102.28333,Stony Meteorites - Chondrites
+Kulnine,12372,L6,55.3,Found,1886,-34.15,141.78333,Stony Meteorites - Chondrites
+Wellman (a),24237,H5,55.0,Found,1940,33.03333,-102.33333,Stony Meteorites - Chondrites
+Rosebud,22767,H5,54.9,Found,1915,30.81667,-97.05,Stony Meteorites - Chondrites
+Elenovka,7824,L5,54.64,Fell,1951,47.83333,37.66667,Stony Meteorites - Chondrites
+Aprel'sky,2319,"Iron, IIIAB",54.6,Found,1969,53.3,126.11667,Iron Meteorites - Category I
+Markovka,15427,H4,54.2,Found,1967,52.4,79.8,Stony Meteorites - Chondrites
+Chihuahua City,5350,"Iron, IC",54.0,Found,1929,28.66667,-106.11667,Other Categories
+Veramin,24162,Mesosiderite-B2,54.0,Fell,1880,35.33333,51.63333,Stony-Iron Meteorites - Mesosiderites
+Dunganville,7748,"Iron, IIIAB",54.0,Found,1976,-42.55,171.35,Iron Meteorites - Category I
+Uwet,24138,"Iron, IIAB",54.0,Found,1903,5.28333,8.25,Iron Meteorites - Category I
+Kumerina,12375,"Iron, IIC",53.5,Found,1937,-24.91667,119.41667,Iron Meteorites - Category II
+Ruff's Mountain,22779,"Iron, IIIAB",53.07,Found,1844,34.3,-81.4,Iron Meteorites - Category I
+Dalton,5509,"Iron, IIIAB",53.0,Found,1879,34.8,-84.98333,Iron Meteorites - Category I
+Nan Yang Pao,16903,L6,52.9,Fell,1917,35.66667,103.5,Stony Meteorites - Chondrites
+Ahumada,419,"Pallasite, PMG",52.6,Found,1909,30.7,-105.5,Stony-Iron Meteorites - Pallasites
+Stannern,23713,Eucrite-mmict,52.0,Fell,1808,49.28333,15.56667,Stony Meteorites - Achondrites
+Benjamin,5020,H4/5,51.8,Found,1969,33.58333,-99.8,Stony Meteorites - Chondrites
+Grand Rapids,10955,"Iron, ungrouped",51.7,Found,1883,42.96667,-85.76667,Iron Meteorites - Category U (Uncategorized)
+Ilimaes (iron),12022,"Iron, IIIAB",51.7,Found,1870,-26.0,-70.0,Iron Meteorites - Category I
+Lancé,12455,CO3.5,51.7,Fell,1872,47.7,1.06667,Stony Meteorites - Achondrites
+Leedey,12755,L6,51.5,Fell,1943,35.88333,-99.33333,Stony Meteorites - Chondrites
+Mungindi,16872,"Iron, IAB-sLM",51.3,Found,1897,-28.93333,148.95,Iron Meteorites - Category I
+Willow Creek,24276,"Iron, IIIE",51.0,Found,1914,43.46667,-106.76667,Iron Meteorites - Category II
+La Grange,12399,"Iron, IVA",50.8,Found,1860,38.4,-85.36667,Iron Meteorites - Category IV
+Davy (a),6616,L4,50.6,Found,1940,29.1,-97.6,Stony Meteorites - Chondrites
+Richland,22601,"Iron, IIAB",50.6,Found,1951,31.9,-96.4,Iron Meteorites - Category I
+Santa Vitoria do Palmar,35478,L3,50.4,Found,2003,-33.50944,-53.41083,Stony Meteorites - Chondrites
+Northwest Africa 1581,17340,L6,50.2,Found,2001,31.38333,-4.25,Stony Meteorites - Chondrites
+Winburg,24283,"Iron, IC-an",50.0,Found,1881,-28.5,27.0,Other Categories
+Valera,24149,L5,50.0,Fell,1972,9.31667,-70.62833,Stony Meteorites - Chondrites
+Wuan,24340,H6,50.0,Fell,1986,36.75,114.25,Stony Meteorites - Chondrites
+Waconda,24195,L6,50.0,Found,1873,39.33333,-98.16667,Stony Meteorites - Chondrites
+Hinojal,11887,L6,50.0,Found,1927,-32.36667,-60.15,Stony Meteorites - Chondrites
+Ingella Station,12034,H5,50.0,Found,1987,-25.55,142.78333,Stony Meteorites - Chondrites
+Dhofar 1654,55572,L5,50.0,Found,2011,18.67877,54.2876,Stony Meteorites - Chondrites
+Akyumak,433,"Iron, IVA",50.0,Fell,1981,39.91667,42.81667,Iron Meteorites - Category IV
+Hammadah al Hamra 153,11636,H3.8-4,50.0,Found,1995,28.60033,13.5775,Stony Meteorites - Chondrites
+Limerick,14652,H5,50.0,Fell,1813,52.56667,-8.78333,Stony Meteorites - Chondrites
+Zagora,30387,"Iron, IAB-ung",50.0,Found,1987,30.36667,-5.85,Iron Meteorites - Category I
+Northwest Africa 6903,53891,"Iron, IIIAB",50.0,Found,2008,32.37167,-6.36,Iron Meteorites - Category I
+Northwest Africa 5775,49455,LL5,50.0,Found,2006,0.0,0.0,Stony Meteorites - Chondrites
+Aumale,4899,L6,50.0,Fell,1865,36.16667,3.66667,Stony Meteorites - Chondrites
+Ausson,4903,L5,50.0,Fell,1858,43.08333,0.58333,Stony Meteorites - Chondrites
+Krymka,12364,LL3.2,50.0,Fell,1946,47.83333,30.76667,Stony Meteorites - Chondrites
+Nuevo Mercurio,17938,H5,50.0,Fell,1978,24.3,-102.13333,Stony Meteorites - Chondrites
+Jiddat al Harasis 342,45866,L5,49.75,Found,2006,19.71458,56.54755,Stony Meteorites - Chondrites
+Hraschina,11916,"Iron, IID",49.0,Fell,1751,46.1,16.33333,Iron Meteorites - Category II
+Mapleton,15410,"Iron, IIIAB",49.0,Found,1939,42.18333,-95.71667,Iron Meteorites - Category I
+Agua Blanca,397,"Iron, IIIAB",49.0,Found,1938,-28.91667,-66.95,Iron Meteorites - Category I
+Thule,23977,"Iron, IIIAB",48.6,Found,1955,76.53333,-67.55,Iron Meteorites - Category I
+Bear Lodge,4983,"Iron, IIIAB",48.5,Found,1931,44.5,-104.2,Iron Meteorites - Category I
+Cabin Creek,5186,"Iron, IIIAB",48.5,Fell,1886,35.5,-93.5,Iron Meteorites - Category I
+Crab Orchard,5461,Mesosiderite-A1,48.5,Found,1887,35.83333,-84.91667,Stony-Iron Meteorites - Mesosiderites
+Bischtübe,5057,"Iron, IAB-sLL",48.25,Found,1888,51.95,62.2,Iron Meteorites - Category I
+Woodbine,24330,"Iron, IAB-ung",48.2,Found,1953,42.34667,-90.1675,Iron Meteorites - Category I
+Bagnone,4921,"Iron, IIIAB",48.0,Found,1904,44.31667,9.98333,Iron Meteorites - Category I
+Jackalsfontein,12065,L6,48.0,Fell,1903,-32.5,21.9,Stony Meteorites - Chondrites
+Sukhoj Liman,23739,H4/5,48.0,Found,1987,46.4,30.8,Stony Meteorites - Chondrites
+Dresden (Ontario),7731,H6,47.7,Fell,1939,42.52,-82.26,Stony Meteorites - Chondrites
+Red Rock,22549,"Iron, IIIAB",47.6,Found,1976,35.41667,-117.91667,Iron Meteorites - Category I
+Roy (1933),22774,L5,47.2,Found,1933,35.95,-104.2,Stony Meteorites - Chondrites
+Gomez,10944,L6,47.0,Found,1974,33.18139,-102.40139,Stony Meteorites - Chondrites
+Rancho de la Pila (1882),22389,"Iron, IIIAB",46.5,Found,1882,24.11667,-104.3,Iron Meteorites - Category I
+Lakewood,12450,L6,46.5,Found,1955,32.62972,-104.35,Stony Meteorites - Chondrites
+Cuero,5493,H5,46.5,Found,1936,29.01667,-97.28333,Stony Meteorites - Chondrites
+Harrisonville,11844,L6,46.5,Found,1933,38.65,-94.33333,Stony Meteorites - Chondrites
+Osseo,18037,"Iron, IAB complex",46.3,Found,1931,47.63333,-80.08333,Iron Meteorites - Category I
+Jiddat al Harasis 203,45839,Mesosiderite-C2,46.2,Found,2002,19.983,56.41368,Stony-Iron Meteorites - Mesosiderites
+Dumas (a),7741,H5,46.05,Found,1956,35.9,-101.9,Stony Meteorites - Chondrites
+Linwood,14657,"Iron, IAB-MG",46.0,Found,1940,41.43333,-96.96667,Iron Meteorites - Category I
+Asuka 87251,2608,LL6,46.0,Found,1987,-72.0,26.0,Stony Meteorites - Chondrites
+Peace River,18180,L6,45.76,Fell,1963,56.13333,-117.93333,Stony Meteorites - Chondrites
+Woodward County,24333,H4,45.5,Found,1923,36.5,-99.5,Stony Meteorites - Chondrites
+Northwest Africa 7150,54902,H4,45.326,Found,2011,0.0,0.0,Stony Meteorites - Chondrites
+Thuathe,23976,H4/5,45.3,Fell,2002,-29.33333,27.58333,Stony Meteorites - Chondrites
+Needles,16936,"Iron, IID",45.3,Found,1962,34.44417,-114.8325,Iron Meteorites - Category II
+Kyushu,12390,L6,45.0,Fell,1886,32.03333,130.63333,Stony Meteorites - Chondrites
+La Criolla,12396,L6,45.0,Fell,1985,-31.23333,-58.16667,Stony Meteorites - Chondrites
+Hammadah al Hamra 173,11656,L6,45.0,Found,1996,28.63667,13.1965,Stony Meteorites - Chondrites
+Vyatka,24193,H4,45.0,Found,1991,57.53333,49.0,Stony Meteorites - Chondrites
+Sandia Mountains,23156,"Iron, IIAB",45.0,Found,1925,35.25,-106.5,Iron Meteorites - Category I
+Dhajala,6698,H3.8,45.0,Fell,1976,22.37778,71.42722,Stony Meteorites - Chondrites
+Marjalahti,15426,"Pallasite, PMG",45.0,Fell,1902,61.5,30.5,Stony-Iron Meteorites - Pallasites
+Wellman (c),24239,H4,45.0,Found,1964,33.03333,-102.33333,Stony Meteorites - Chondrites
+Kuttippuram,12384,L6,45.0,Fell,1914,10.83333,76.03333,Stony Meteorites - Chondrites
+Bensour,5024,LL6,45.0,Fell,2002,30.0,-7.0,Stony Meteorites - Chondrites
+Dhofar 1433,45837,H5,44.79,Found,2006,18.43333,54.1,Stony Meteorites - Chondrites
+Saginaw,22797,Iron,44.5,Found,1979,32.86583,-97.32306,Other Categories
+Beenham,4995,L5,44.4,Found,1937,36.21667,-103.65,Stony Meteorites - Chondrites
+Northwest Africa 5460,49176,H4,44.4,Found,2006,0.0,0.0,Stony Meteorites - Chondrites
+Kelly,12273,LL4,44.3,Found,1937,40.46667,-103.03333,Stony Meteorites - Chondrites
+Zemaitkiemis,30399,L6,44.1,Fell,1933,55.3,25.0,Stony Meteorites - Chondrites
+Rodeo,22643,"Iron, IID",44.0,Found,1852,25.33333,-104.66667,Iron Meteorites - Category II
+Dix,7651,L6,44.0,Found,1927,41.23333,-103.48333,Stony Meteorites - Chondrites
+Barwell,4954,L5,44.0,Fell,1965,52.56528,-1.33972,Stony Meteorites - Chondrites
+Horh Uul,11909,"Iron, IIIAB",44.0,Found,2001,43.25,104.16667,Iron Meteorites - Category I
+Ust-Nyukzha,24133,"Iron, IAB complex",44.0,Found,1992,56.38333,120.46667,Iron Meteorites - Category I

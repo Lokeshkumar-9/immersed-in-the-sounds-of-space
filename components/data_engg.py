@@ -20,10 +20,10 @@ def load_data_and_clean_data():
 
     # Convert data types
     df['year'] = df['year'].astype(int)
-    df['mass'] = df['mass'].astype(int)
-
+    
     # Convert mass from grams to kilograms
     df['mass'] = df['mass'] / 1000
+    df['mass'] = df['mass'].astype(int)
 
     # Sort by mass descending
     df = df.sort_values(by='mass', ascending=False)
@@ -34,11 +34,11 @@ def load_data_and_clean_data():
     # Apply the class categories to the class column and create a new column called class_cat
     df['class_cat'] = df['class'].apply(lambda x: [k for k, v in class_categories.items() if x in v][0])
 
-    print(df.columns)
-    print(df.head())
-    print(len(df))
-    print(df.dtypes)
-    print(df.describe())
+    # print(df.columns)
+    # print(df.head())
+    # print(len(df))
+    # print(df.dtypes)
+    # print(df.describe())
 
     return df
 
