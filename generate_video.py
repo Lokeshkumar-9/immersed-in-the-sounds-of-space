@@ -1,11 +1,13 @@
 import imageio
 
+fps = 10
+
 # Specify the path to save the video and the image frames path
-video_file_path = 'output/video.mp4'
-image_frames_path = 'output/images_occur/frame_{:04d}.png'
+video_file_path = f'output/videos/meteor_impacts-fps-{fps}.mp4'
+image_frames_path = 'output/images/frame_{:04d}.png'
 
 # Create a writer object
-writer = imageio.get_writer(video_file_path, fps=5)
+writer = imageio.get_writer(video_file_path, fps=fps)
 
 # Loop through the image frames and add them to the video
 for i in range(0, 500):
